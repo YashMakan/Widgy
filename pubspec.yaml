@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
   auto_route: ^9.3.0+1
   dataflow: ^1.4.0
-  path_provider: ^2.1.5
+  path_provider: ^2.0.11
   args: ^2.6.0
   dart_console: ^4.1.1
   analyzer: ^7.3.0
